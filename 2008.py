@@ -84,7 +84,7 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/Shoaibsafi2/shayana/main/SD.txt/blob/main/run.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/Shoaibsafi2/shayana/blob/main/SD.txt/blob/main/run.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://github.com/Shoaibsafi2/shayana/blob/main/SD.txt")
 
@@ -94,10 +94,10 @@ def notice():
  
 
 
-	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
+	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join ib ")
 	os.system("xdg-open https://www.facebook.com/ShaYan007king")
-	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
-	runtxt("\033[0;97m Key group admin ke post pe coment krein")
+	runtxt("\033[0;97m Key Approval ke liya ib karo >> %s%s"%(G,basesplit))
+	runtxt("\033[0;97m Key muji sant kar ha")
 	os.system("https://www.facebook.com/ShaYan007king")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/ShaYan007king"])
 	
