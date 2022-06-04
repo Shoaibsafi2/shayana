@@ -41,14 +41,26 @@ def logo():
 def logo2():
 	#Yahan apna logo paste krna hw
 	print ("""
-.########.##.....##.########.##.....##.##......
-....##....##.....##....##....##.....##.##......
-....##....##.....##....##....##.....##.##......
-....##....##.....##....##....##.....##.##......
-....##....##.....##....##....##.....##.##......
-....##....##.....##....##....##.....##.##......
-....##.....#######.....##.....#######..######## 
-                          👹M͓̽e͓̽N͓̽t͓̽a͓̽l͓̽✷͓̽G͓̽A͓̽N͓̽g͓̽✷͓̽C͓̽C͓̽C͓̽5͓̽👹
+
+  /$$$$$$  /$$                                              
+ /$$__  $$| $$                                              
+| $$  \__/| $$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$ 
+|  $$$$$$ | $$__  $$ |____  $$| $$  | $$ |____  $$| $$__  $$
+ \____  $$| $$  \ $$  /$$$$$$$| $$  | $$  /$$$$$$$| $$  \ $$
+ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$ /$$__  $$| $$  | $$
+|  $$$$$$/| $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$  | $$
+ \______/ |__/  |__/ \_______/ \____  $$ \_______/|__/  |__/
+                               /$$  | $$                    
+                              |  $$$$$$/                    
+                               \______/                     
+
+
+
+
+
+
+
+                          
 
                50% Ok Or Cp Account Just Now Open🤟                                                                            
  ───────────────────────────────────────────────────────×
@@ -74,7 +86,7 @@ def helpnote():
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
 	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/Shoaibsafi2/shayana/main/SD.txt/blob/main/run.txt"])
 	#yahan apni facebook id link dalna
-	exit(" [=>] FACEBOOK :  https://www.facebook.com/Abal.Not.Allow.ok.Bro")
+	exit(" [=>] FACEBOOK :  https://github.com/Shoaibsafi2/shayana/blob/main/SD.txt")
 
 
 def notice():
@@ -83,11 +95,11 @@ def notice():
 
 
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
-	os.system("xdg-open https://www.facebook.com/groups/mental.gang.ccc5.tor.real.bap/?ref=share")
+	os.system("xdg-open https://www.facebook.com/ShaYan007king")
 	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m Key group admin ke post pe coment krein")
-	os.system("xdg-open https://www.facebook.com/groups/mental.gang.ccc5.tor.real.bap/?ref=share")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/groups/mental.gang.ccc5.tor.real.bap/?ref=share"])
+	os.system("https://www.facebook.com/ShaYan007king")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/ShaYan007king"])
 	
 
 
@@ -109,7 +121,7 @@ class Main:
 		self.loop = 0
 		try:
 			#yahan pr v apna github link dalna aproval wala
-			plr = requests.get('https://pastebin.com/raw/Q1HhBDQ3').text
+			plr = requests.get('https://github.com/Shoaibsafi2/shayana/blob/main/SD.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;97mPREMIUM")
@@ -128,13 +140,20 @@ class Main:
 		os.system("clear")
 		#yahan logo lagana apna
 		print ("""
-████████╗██╗   ██╗████████╗██╗   ██╗██╗     
-╚══██╔══╝██║   ██║╚══██╔══╝██║   ██║██║     
-   ██║   ██║   ██║   ██║   ██║   ██║██║     
-   ██║   ██║   ██║   ██║   ██║   ██║██║     
-   ██║   ╚██████╔╝   ██║   ╚██████╔╝███████╗
-   ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝
-                          👹M͓̽e͓̽N͓̽t͓̽a͓̽l͓̽✷͓̽G͓̽A͓̽N͓̽g͓̽✷͓̽C͓̽C͓̽C͓̽5͓̽👹                           
+
+  /$$$$$$  /$$                                              
+ /$$__  $$| $$                                              
+| $$  \__/| $$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$ 
+|  $$$$$$ | $$__  $$ |____  $$| $$  | $$ |____  $$| $$__  $$
+ \____  $$| $$  \ $$  /$$$$$$$| $$  | $$  /$$$$$$$| $$  \ $$
+ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$ /$$__  $$| $$  | $$
+|  $$$$$$/| $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$  | $$
+ \______/ |__/  |__/ \_______/ \____  $$ \_______/|__/  |__/
+                               /$$  | $$                    
+                              |  $$$$$$/                    
+                               \______/                     
+
+                                                   
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m shayan king Bar\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
